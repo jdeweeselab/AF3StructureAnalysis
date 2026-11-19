@@ -1,5 +1,5 @@
 AF3 TOP2A/TOP2B CTD analysis scripts
-Falkhenheim & Deweese - analysis of AlphaFold 3 predictions for the TOP2A and TOP2B C-terminal domains
+Falkenheim & Deweese - analysis of AlphaFold 3 predictions for the TOP2A and TOP2B C-terminal domains
 Package assembled 2026-11-19
 
 REQUIREMENTS
