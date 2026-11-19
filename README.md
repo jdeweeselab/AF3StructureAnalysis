@@ -31,6 +31,5 @@ Each script has usage notes at the top and prints its options with:
 
 ## License
 
-Unless otherwise noted, this repository's scripts and documentation are licensed under
-Creative Commons Attribution 4.0 International (CC BY 4.0):
+This work is licensed under CC BY 4.0:
 https://creativecommons.org/licenses/by/4.0/
